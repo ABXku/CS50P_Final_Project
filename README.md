@@ -28,4 +28,4 @@
        If you want to do something like this, this [video](https://youtu.be/PXMJ6FS7llk?feature=shared) from FreeCodeCamp might be a very useful guideline.
 
 ## :warning: Disclaimer:
-  All of the works here are for educational purposes only and are not intended to be submitted as your own code. Please check [Academic Honesty](https://cs50.harvard.edu/python/2022/honesty/) out for more detailed information.
+        All of the works here are for educational purposes only and are not intended to be submitted as your own code. Please check [Academic Honesty](https://cs50.harvard.edu/python/2022/honesty/) out for more detailed information.
